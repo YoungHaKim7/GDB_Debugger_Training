@@ -12,6 +12,9 @@
 # 최신 gdb 다운 받기
 - https://www.gnu.org/software/gdb/
 
+# github코드 보면서 잘 분석해 보자
+- https://github.com/gcc-mirror/gcc
+
 # GDB주로 쓰는 기능 잘 정리됨
 - https://alida.tistory.com/23
 
