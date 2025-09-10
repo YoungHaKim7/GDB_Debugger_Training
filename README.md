@@ -7,7 +7,10 @@
 
 # GDB_Debugger_Training
 - 설명서
-  - https://www.gnu.org/software/gdb/
+  - https://www.sourceware.org/gdb/documentation/
+
+# 최신 gdb 다운 받기
+- https://www.gnu.org/software/gdb/
 
 # GDB주로 쓰는 기능 잘 정리됨
 - https://alida.tistory.com/23
