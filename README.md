@@ -6,6 +6,8 @@
   - [온라인으로 디버깅 된다. 완전 최고..https://www.onlinegdb.com/online_c++_debugger](https://www.onlinegdb.com/online_c++_debugger)
 
 # GDB_Debugger_Training
+- 설명서
+  - https://www.gnu.org/software/gdb/
 
 # GDB주로 쓰는 기능 잘 정리됨
 - https://alida.tistory.com/23
