@@ -6,7 +6,8 @@
   - https://github.com/tar-mirror/gnu-m4
 - https://ftp.gnu.org/gnu/m4/
 
-
+# Toturial(GBD)
+- [(240804)Reverse Engineering 101 tutorial with the amazing Stephen Sims! | David Bombal](https://youtu.be/5FXrCHLAJZM?si=DAJsFN_ceEJef6El)
 
 # gdb
 
