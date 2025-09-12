@@ -11,6 +11,19 @@
 
 # gdb
 
+- `main.c`
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+
+    return 0;
+}
+```
+
 ```gdb
 (gdb) info functions
 All defined functions:
