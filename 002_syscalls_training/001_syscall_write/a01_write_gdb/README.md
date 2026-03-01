@@ -1,3 +1,12 @@
+# `write`
+- https://man7.org/linux/man-pages/man2/write.2.html
+```c
+ #include <unistd.h>
+
+ ssize_t write(size_t count;
+               int fd, const void buf[count], size_t count);
+```
+
 # `strace`
 
 ```bash
