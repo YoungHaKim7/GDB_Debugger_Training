@@ -5,7 +5,9 @@
 
 <hr />
 
+# Reverse Enginnering 여기에 정리중
 
+- https://github.com/YoungHaKim7/radare2_reverse-engineering_training
 
 # GDB_Debugger_Training
 - 설명서
