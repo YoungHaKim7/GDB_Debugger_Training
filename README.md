@@ -5,7 +5,7 @@
 
 <hr />
 
-# Reverse Enginnering 여기에 정리중
+# Reverse Enginnering 여기에 정리중(260301)
 
 - https://github.com/YoungHaKim7/radare2_reverse-engineering_training
 
